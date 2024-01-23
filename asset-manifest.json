@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/node_front_fs_85_Okimmi/static/css/main.0f610626.css",
-    "main.js": "/node_front_fs_85_Okimmi/static/js/main.10a9d80a.js",
+    "main.js": "/node_front_fs_85_Okimmi/static/js/main.d907533e.js",
     "static/media/serhii-khabuzov.jpg": "/node_front_fs_85_Okimmi/static/media/serhii-khabuzov.015963b0f71b5748d478.jpg",
     "static/media/Roboto-Medium.ttf": "/node_front_fs_85_Okimmi/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Regular.ttf": "/node_front_fs_85_Okimmi/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -55,10 +55,10 @@
     "static/media/pluss.svg": "/node_front_fs_85_Okimmi/static/media/pluss.a825844368d25850e9fa030c4bd74f44.svg",
     "static/media/PlusAdd.svg": "/node_front_fs_85_Okimmi/static/media/PlusAdd.f009a02ac759b50fd6c43db8c00baf79.svg",
     "main.0f610626.css.map": "/node_front_fs_85_Okimmi/static/css/main.0f610626.css.map",
-    "main.10a9d80a.js.map": "/node_front_fs_85_Okimmi/static/js/main.10a9d80a.js.map"
+    "main.d907533e.js.map": "/node_front_fs_85_Okimmi/static/js/main.d907533e.js.map"
   },
   "entrypoints": [
     "static/css/main.0f610626.css",
-    "static/js/main.10a9d80a.js"
+    "static/js/main.d907533e.js"
   ]
 }
