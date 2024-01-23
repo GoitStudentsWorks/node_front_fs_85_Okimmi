@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/stackNinjas-frontend">
+        <BrowserRouter basename="/node_front_fs_85_Okimmi">
           <ThemeProvider theme={theme}>
             <App />
           </ThemeProvider>
